@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+.login_box h2 {
+    color: white;
+    text-align: center;
+}
+
+.loi-chao h1 {
+    color: white;
+    text-align: center;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+}
+
+.login_box {
+    width: 400px;
+    background: rgb(223, 93, 10);
+    position: absolute;
+    padding: 40px;
+    top: 50%;
+    left: 35%;
+    box-shadow: 115px;
+    border-radius: 15px;
+}
+
+.user_box {
+   color: honeydew;
+}
+
+
